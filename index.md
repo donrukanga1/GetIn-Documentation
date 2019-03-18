@@ -14,7 +14,7 @@ nav_order:
 ## This document walks you through a very basic setup process, to get you familiar with setting up and using the Get APP
 {: .no_toc }
 
-[Get Started ](http:/){: .btn .btn-purple }
+[Get Started ](https://donrukanga1.github.io/GetIn-Documentation/#get-started){: .btn .btn-purple }
 [View on GitHub](https://github.com/SanaMobile/sana.mobile.git/){: .btn .btn-green}
 
 
