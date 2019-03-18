@@ -25,8 +25,8 @@ github_username:  getin
 
 # Aux links for the upper right navigation
 aux_links:
-    "Just the Docs on GitHub":
-      - "//github.com/pmarsceill/just-the-docs"
+    "GetIN Docs mobile on GitHub":
+      - "//github.com/donrukanga1/GetIn-Documentation/"
 # Color scheme currently only supports "dark" or nil (default)
 # color_scheme: "dark"
 
