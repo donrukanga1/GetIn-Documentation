@@ -28,7 +28,7 @@ aux_links:
     "Just the Docs on GitHub":
       - "//github.com/pmarsceill/just-the-docs"
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
+# color_scheme: "dark"
 
 #Enable Search
 search_enabled: true
